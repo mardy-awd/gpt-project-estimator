@@ -8,9 +8,10 @@ app.use(bodyParser.json());
 app.use(cors());
 
 const fs = require('fs');
+require('dotenv').config();
 
 const openai = new OpenAI({
-    apiKey: 'sk-proj-CHYFpRgB7FkK4rsdALAcT3BlbkFJpcMNoP11KkXExUWBDocC'
+    apiKey: process.env.OPENAI_API_KEY
 });
 
 // Load historical data
