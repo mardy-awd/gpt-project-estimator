@@ -1,0 +1,233 @@
+[
+    {
+        "projectDetails": "E-commerce platform with user accounts, product listings, shopping cart, and payment integration.",
+        "complexity": "high",
+        "teamSize": 8,
+        "estimatedTime": "20-24 weeks",
+        "actualTime": "22 weeks"
+    },
+    {
+        "projectDetails": "Mobile app for social networking with user profiles, posts, comments, and real-time messaging.",
+        "complexity": "medium",
+        "teamSize": 6,
+        "estimatedTime": "16-20 weeks",
+        "actualTime": "18 weeks"
+    },
+    {
+        "projectDetails": "Corporate website with company information, careers section, and contact form.",
+        "complexity": "low",
+        "teamSize": 4,
+        "estimatedTime": "8-12 weeks",
+        "actualTime": "10 weeks"
+    },
+    {
+        "projectDetails": "Custom ERP system for inventory management, order processing, and reporting.",
+        "complexity": "high",
+        "teamSize": 10,
+        "estimatedTime": "24-28 weeks",
+        "actualTime": "26 weeks"
+    },
+    {
+        "projectDetails": "E-learning platform with courses, quizzes, progress tracking, and user management.",
+        "complexity": "medium",
+        "teamSize": 7,
+        "estimatedTime": "18-22 weeks",
+        "actualTime": "20 weeks"
+    },
+    {
+        "projectDetails": "Healthcare mobile app for patient appointments, prescriptions, and medical records access.",
+        "complexity": "medium",
+        "teamSize": 5,
+        "estimatedTime": "16-20 weeks",
+        "actualTime": "18 weeks"
+    },
+    {
+        "projectDetails": "Blog platform with user accounts, article management, comments, and search functionality.",
+        "complexity": "low",
+        "teamSize": 3,
+        "estimatedTime": "10-14 weeks",
+        "actualTime": "12 weeks"
+    },
+    {
+        "projectDetails": "Event management system for organizing conferences, workshops, and attendee registration.",
+        "complexity": "medium",
+        "teamSize": 6,
+        "estimatedTime": "14-18 weeks",
+        "actualTime": "16 weeks"
+    },
+    {
+        "projectDetails": "Real estate listing website with property search, agent profiles, and contact forms.",
+        "complexity": "low",
+        "teamSize": 4,
+        "estimatedTime": "12-16 weeks",
+        "actualTime": "14 weeks"
+    },
+    {
+        "projectDetails": "Online booking system for reservations at hotels, restaurants, and event venues.",
+        "complexity": "high",
+        "teamSize": 8,
+        "estimatedTime": "20-24 weeks",
+        "actualTime": "22 weeks"
+    },
+    {
+        "projectDetails": "Travel planning app with itinerary creation, destination guides, and weather forecasts.",
+        "complexity": "medium",
+        "teamSize": 5,
+        "estimatedTime": "16-20 weeks",
+        "actualTime": "18 weeks"
+    },
+    {
+        "projectDetails": "Fintech application for peer-to-peer payments, budgeting tools, and financial insights.",
+        "complexity": "high",
+        "teamSize": 7,
+        "estimatedTime": "22-26 weeks",
+        "actualTime": "24 weeks"
+    },
+    {
+        "projectDetails": "Community forum website with discussion boards, user profiles, and moderation tools.",
+        "complexity": "medium",
+        "teamSize": 4,
+        "estimatedTime": "14-18 weeks",
+        "actualTime": "16 weeks"
+    },
+    {
+        "projectDetails": "Fitness tracking app with workout plans, progress tracking, and social sharing features.",
+        "complexity": "low",
+        "teamSize": 3,
+        "estimatedTime": "10-14 weeks",
+        "actualTime": "12 weeks"
+    },
+    {
+        "projectDetails": "Charity donation platform with donation tracking, campaign management, and donor profiles.",
+        "complexity": "medium",
+        "teamSize": 5,
+        "estimatedTime": "16-20 weeks",
+        "actualTime": "18 weeks"
+    },
+    {
+        "projectDetails": "Job board website with job listings, applicant tracking, and employer dashboards.",
+        "complexity": "low",
+        "teamSize": 4,
+        "estimatedTime": "12-16 weeks",
+        "actualTime": "14 weeks"
+    },
+    {
+        "projectDetails": "Recipe sharing app with recipe management, ingredient lists, and user ratings.",
+        "complexity": "low",
+        "teamSize": 3,
+        "estimatedTime": "10-14 weeks",
+        "actualTime": "12 weeks"
+    },
+    {
+        "projectDetails": "Online marketplace for handmade crafts with product listings, seller profiles, and reviews.",
+        "complexity": "medium",
+        "teamSize": 6,
+        "estimatedTime": "18-22 weeks",
+        "actualTime": "20 weeks"
+    },
+    {
+        "projectDetails": "CRM system for managing customer relationships, sales pipelines, and support tickets.",
+        "complexity": "high",
+        "teamSize": 8,
+        "estimatedTime": "20-24 weeks",
+        "actualTime": "22 weeks"
+    },
+    {
+        "projectDetails": "Language learning app with lessons, quizzes, progress tracking, and audio exercises.",
+        "complexity": "medium",
+        "teamSize": 5,
+        "estimatedTime": "16-20 weeks",
+        "actualTime": "18 weeks"
+    },
+    {
+        "projectDetails": "Legal document management system with document storage, version control, and user access controls.",
+        "complexity": "high",
+        "teamSize": 7,
+        "estimatedTime": "22-26 weeks",
+        "actualTime": "24 weeks"
+    },
+    {
+        "projectDetails": "Music streaming service with playlists, artist profiles, recommendations, and offline mode.",
+        "complexity": "high",
+        "teamSize": 9,
+        "estimatedTime": "24-28 weeks",
+        "actualTime": "26 weeks"
+    },
+    {
+        "projectDetails": "Health and fitness app with diet tracking, workout plans, progress photos, and community support.",
+        "complexity": "medium",
+        "teamSize": 6,
+        "estimatedTime": "18-22 weeks",
+        "actualTime": "20 weeks"
+    },
+    {
+        "projectDetails": "SaaS platform for project management with task boards, time tracking, and collaboration tools.",
+        "complexity": "high",
+        "teamSize": 8,
+        "estimatedTime": "20-24 weeks",
+        "actualTime": "22 weeks"
+    },
+    {
+        "projectDetails": "Event ticketing platform with event listings, ticket sales, and attendee check-in.",
+        "complexity": "medium",
+        "teamSize": 5,
+        "estimatedTime": "16-20 weeks",
+        "actualTime": "18 weeks"
+    },
+    {
+        "projectDetails": "Video streaming service with content library, user subscriptions, and recommendation engine.",
+        "complexity": "high",
+        "teamSize": 10,
+        "estimatedTime": "24-28 weeks",
+        "actualTime": "26 weeks"
+    },
+    {
+        "projectDetails": "Inventory management system for retail stores with stock tracking, reorder alerts, and sales reporting.",
+        "complexity": "medium",
+        "teamSize": 6,
+        "estimatedTime": "18-22 weeks",
+        "actualTime": "20 weeks"
+    },
+    {
+        "projectDetails": "Travel booking app with flight search, hotel reservations, and travel itinerary planning.",
+        "complexity": "high",
+        "teamSize": 7,
+        "estimatedTime": "22-26 weeks",
+        "actualTime": "24 weeks"
+    },
+    {
+        "projectDetails": "Online education platform with courses, quizzes, certifications, and student progress tracking.",
+        "complexity": "medium",
+        "teamSize": 5,
+        "estimatedTime": "16-20 weeks",
+        "actualTime": "18 weeks"
+    },
+    {
+        "projectDetails": "Ride-sharing app with driver tracking, fare estimation, and payment integration.",
+        "complexity": "medium",
+        "teamSize": 6,
+        "estimatedTime": "18-22 weeks",
+        "actualTime": "20 weeks"
+    },
+    {
+        "projectDetails": "Property management software with tenant management, lease tracking, and maintenance requests.",
+        "complexity": "medium",
+        "teamSize": 5,
+        "estimatedTime": "16-20 weeks",
+        "actualTime": "18 weeks"
+    },
+    {
+        "projectDetails": "Event planning app with event creation, guest list management, and RSVP tracking.",
+        "complexity": "low",
+        "teamSize": 4,
+        "estimatedTime": "12-16 weeks",
+        "actualTime": "14 weeks"
+    },
+    {
+        "projectDetails": "Freelance marketplace with job postings, freelancer profiles, and payment escrow.",
+        "complexity": "medium",
+        "teamSize": 6,
+        "estimatedTime": "12-16 weeks",
+        "actualTime": "14 weeks"
+    }
+]
